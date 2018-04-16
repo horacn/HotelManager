@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelManager", "HotelManager\HotelManager.csproj", "{5FFD1AD6-6984-4075-9FBA-5790C150B601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelManager.BLL", "HotelManager.BLL\HotelManager.BLL.csproj", "{DAD46FC8-6C54-4DF5-9E82-5D801966EFA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelManager.DAL", "HotelManager.DAL\HotelManager.DAL.csproj", "{16957BDF-518F-4237-BDEC-03323D996228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelManager.Models", "HotelManager.Models\HotelManager.Models.csproj", "{6AF5C072-3974-4DFE-A136-E0CAA9597C7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FFD1AD6-6984-4075-9FBA-5790C150B601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFD1AD6-6984-4075-9FBA-5790C150B601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFD1AD6-6984-4075-9FBA-5790C150B601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFD1AD6-6984-4075-9FBA-5790C150B601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD46FC8-6C54-4DF5-9E82-5D801966EFA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD46FC8-6C54-4DF5-9E82-5D801966EFA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD46FC8-6C54-4DF5-9E82-5D801966EFA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD46FC8-6C54-4DF5-9E82-5D801966EFA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16957BDF-518F-4237-BDEC-03323D996228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16957BDF-518F-4237-BDEC-03323D996228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16957BDF-518F-4237-BDEC-03323D996228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16957BDF-518F-4237-BDEC-03323D996228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF5C072-3974-4DFE-A136-E0CAA9597C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF5C072-3974-4DFE-A136-E0CAA9597C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF5C072-3974-4DFE-A136-E0CAA9597C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF5C072-3974-4DFE-A136-E0CAA9597C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

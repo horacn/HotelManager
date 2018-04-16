@@ -1,0 +1,45 @@
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.BLL.dll
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.BLL.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.DAL.dll
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.Models.dll
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.DAL.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.Models.pdb
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\HotelManager\HotelManager.BLL\obj\Debug\HotelManager.BLL.csprojResolveAssemblyReference.cache
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\HotelManager\HotelManager.BLL\obj\Debug\HotelManager.BLL.dll
+D:\360data\重要数据\我的文档\Visual Studio 2012\Projects\HotelManager\HotelManager.BLL\obj\Debug\HotelManager.BLL.pdb
+F:\S2\N-Tier\Chapter07\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.BLL.dll
+F:\S2\N-Tier\Chapter07\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.BLL.pdb
+F:\S2\N-Tier\Chapter07\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.DAL.dll
+F:\S2\N-Tier\Chapter07\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.Models.dll
+F:\S2\N-Tier\Chapter07\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.DAL.pdb
+F:\S2\N-Tier\Chapter07\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.Models.pdb
+F:\S2\N-Tier\Chapter07\HotelManager\HotelManager.BLL\obj\Debug\HotelManager.BLL.csprojResolveAssemblyReference.cache
+F:\S2\N-Tier\Chapter07\HotelManager\HotelManager.BLL\obj\Debug\HotelManager.BLL.dll
+F:\S2\N-Tier\Chapter07\HotelManager\HotelManager.BLL\obj\Debug\HotelManager.BLL.pdb
+H:\S2\N-Tier\Chapter07\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.BLL.dll
+H:\S2\N-Tier\Chapter07\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.BLL.pdb
+H:\S2\N-Tier\Chapter07\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.DAL.dll
+H:\S2\N-Tier\Chapter07\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.Models.dll
+H:\S2\N-Tier\Chapter07\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.DAL.pdb
+H:\S2\N-Tier\Chapter07\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.Models.pdb
+H:\S2\N-Tier\Chapter07\HotelManager\HotelManager.BLL\obj\Debug\HotelManager.BLL.csprojResolveAssemblyReference.cache
+H:\S2\N-Tier\Chapter07\HotelManager\HotelManager.BLL\obj\Debug\HotelManager.BLL.dll
+H:\S2\N-Tier\Chapter07\HotelManager\HotelManager.BLL\obj\Debug\HotelManager.BLL.pdb
+C:\Users\Administrator.PC-20131105DGWN\Desktop\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.BLL.dll
+C:\Users\Administrator.PC-20131105DGWN\Desktop\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.BLL.pdb
+C:\Users\Administrator.PC-20131105DGWN\Desktop\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.DAL.dll
+C:\Users\Administrator.PC-20131105DGWN\Desktop\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.Models.dll
+C:\Users\Administrator.PC-20131105DGWN\Desktop\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.DAL.pdb
+C:\Users\Administrator.PC-20131105DGWN\Desktop\HotelManager\HotelManager.BLL\bin\Debug\HotelManager.Models.pdb
+C:\Users\Administrator.PC-20131105DGWN\Desktop\HotelManager\HotelManager.BLL\obj\Debug\HotelManager.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.PC-20131105DGWN\Desktop\HotelManager\HotelManager.BLL\obj\Debug\HotelManager.BLL.dll
+C:\Users\Administrator.PC-20131105DGWN\Desktop\HotelManager\HotelManager.BLL\obj\Debug\HotelManager.BLL.pdb
+H:\S2\N-Tier\Chapter07\HotelManager_RoomName版\HotelManager.BLL\bin\Debug\HotelManager.BLL.dll
+H:\S2\N-Tier\Chapter07\HotelManager_RoomName版\HotelManager.BLL\bin\Debug\HotelManager.BLL.pdb
+H:\S2\N-Tier\Chapter07\HotelManager_RoomName版\HotelManager.BLL\bin\Debug\HotelManager.DAL.dll
+H:\S2\N-Tier\Chapter07\HotelManager_RoomName版\HotelManager.BLL\bin\Debug\HotelManager.Models.dll
+H:\S2\N-Tier\Chapter07\HotelManager_RoomName版\HotelManager.BLL\bin\Debug\HotelManager.DAL.pdb
+H:\S2\N-Tier\Chapter07\HotelManager_RoomName版\HotelManager.BLL\bin\Debug\HotelManager.Models.pdb
+H:\S2\N-Tier\Chapter07\HotelManager_RoomName版\HotelManager.BLL\obj\Debug\HotelManager.BLL.csprojResolveAssemblyReference.cache
+H:\S2\N-Tier\Chapter07\HotelManager_RoomName版\HotelManager.BLL\obj\Debug\HotelManager.BLL.dll
+H:\S2\N-Tier\Chapter07\HotelManager_RoomName版\HotelManager.BLL\obj\Debug\HotelManager.BLL.pdb
